@@ -1,0 +1,3 @@
+# xBOT
+xBOT (originally written in js) now in TypeScript!  
+Work in progress...
